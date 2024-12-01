@@ -37,3 +37,5 @@ for (let k = 0; k < arrA.length; k++) {
     sumOfDifference += total;    
   }
 }
+
+console.log("sum", sumOfDifference);
